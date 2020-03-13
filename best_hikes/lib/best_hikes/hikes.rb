@@ -1,0 +1,10 @@
+class BestHikes::Hikes
+  
+  
+  
+  
+  
+  
+  
+  
+end

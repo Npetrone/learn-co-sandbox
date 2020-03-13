@@ -1,0 +1,11 @@
+class BestHikes::CLI
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
